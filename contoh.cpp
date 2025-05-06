@@ -20,14 +20,14 @@ class PersegiPanjang
     //Lingkaran ol;
 };
 
-Class Lingkaran
+class Lingkaran
 {
     public:
     int jarijari;
 
     void input()
     {
-        cout << "Masukan jari-jari :"
+        cout << "Masukan jari-jari :";
         cin >> jarijari;
     }
 
